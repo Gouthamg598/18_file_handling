@@ -1,0 +1,8 @@
+# w--> write command use to create and write the content 
+# if file already exists it will delete the content and add the new content in it
+
+#a--> used to append(add) the content to the existed file 
+# if file file not existed it create the file add the content to it 
+
+# r--> only if file exists, it  read the content in the file else it will throw an error--filenotfound
+#x--> is used to create the new file if file name already exists  it will throw an error--FileExistsError
