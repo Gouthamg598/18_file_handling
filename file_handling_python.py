@@ -26,7 +26,7 @@
 # print(os.path.exists('file1.text'))#True
 
 '''to delete existed files'''
-import os
+#import os
 # os.remove('file1.text')
 # os.remove('file2.py')
 
